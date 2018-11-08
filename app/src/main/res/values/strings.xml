@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Procurando um Local</string>
+    <string name="title_activity_list">lista</string>
+
+    <string name="OK" />
+
+    <string name="Nome">Digite seu Nome:</string>
+    <string name="Endereco">Digite seu endereço:</string>
+    <string name="Telefone">Digite o telefone do local:</string>
+    <string name="Posicao">Digite a Posição do local desejado:</string>
+    <string name="TipoLocal">Informe o Tipo de local:</string>
+    <string name="Descricao">Informe a descrição do local desejado:</string>
+</resources>
